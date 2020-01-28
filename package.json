@@ -19,5 +19,11 @@
   "bugs": {
     "url": "https://github.com/slagroom/node-crash-course/issues"
   },
-  "homepage": "https://github.com/slagroom/node-crash-course#readme"
+  "homepage": "https://github.com/slagroom/node-crash-course#readme",
+  "dependencies": {
+    "uuid": "^3.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
 }
