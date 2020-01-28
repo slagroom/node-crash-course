@@ -1,0 +1,23 @@
+{
+  "name": "crash-course",
+  "version": "1.0.0",
+  "description": "Node crash course from https://www.youtube.com/watch?v=fBNz5xF-Kx4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slagroom/node-crash-course.git"
+  },
+  "keywords": [
+    "node",
+    "course"
+  ],
+  "author": "slagroom",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/slagroom/node-crash-course/issues"
+  },
+  "homepage": "https://github.com/slagroom/node-crash-course#readme"
+}
